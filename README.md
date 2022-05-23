@@ -1,1 +1,3 @@
 # Mapping_Earthquakes
+## Overview
+The overview of this project was to create a visually appealing map to display earthquake data that has occured over the last 7 days. The different types of overlays are able to be toggled with earthquake data coming in from the United States Geological Serivce, we were able to compile a map that displayed recorded earthquakes across the world, varying in size and color based on the severity of it. Also, a separate overlay to separate out the major earthquakes (magnitude of 4+). Also able to overlay the tetonic plate geological data to show correlation with the fault lines and earthquake activity. Finally, there are a total of 4 map styles to show the overlays over different types of maps. 
